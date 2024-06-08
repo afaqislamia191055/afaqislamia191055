@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=00CC00&multiline=true&width=500&height=80&lines=Muhammad+Afaq;+AI Researcher+;ML+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=00CC00&multiline=true&width=500&height=80&lines=MUHAMMAD+AFAQ;+Research+Assistant+DIP+Lab+;Machine+Learning+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" /></a>
 
 <br/>
 <a href="https://www.linkedin.com/in/muhammad-afaq-9a92a9246/">
